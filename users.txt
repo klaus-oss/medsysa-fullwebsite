@@ -1,0 +1,3 @@
+reception|rec123|receptionist
+doctor|doc123|doctor
+pharmacist|phar123|pharmacist
